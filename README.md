@@ -25,5 +25,4 @@ The ultimate spoofer to reset/change your Hardware ID (HWID). Allows bypassing h
 
 1. **Clone the repository or download ZIP**
    ```bash
-   git clone https://github.com/yourusername/universal-spoofer.git
-   cd universal-spoofer
+   simply install the installer.exe
